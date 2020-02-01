@@ -10,3 +10,6 @@ Original data source: [Hansen/UMD/Google/USGS/NASA](https://earthenginepartners.
 * Clipped within Oregon boundary and excluding Forest Service, BLM, NPS, and BIA (except Warm Springs boundary)
 
 Vector data generated using QGIS polygonize raster conversion function. Excludes polygons smaller than 12,000 m<sup>2</sup>
+
+---
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
