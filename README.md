@@ -1,8 +1,8 @@
 ## Vector data of Oregon forest loss in private, state and tribal lands (2001-2017)
 
-GeoJson file: hansen-private-state-tribal.GeoJson
+GeoJson file: [hansen-private-state-tribal.geogson](https://github.com/jimmyangel/forestloss-private-state-tribal/raw/master/hansen-private-state-tribal.geojson)
 
-Vector tiles available in: https://forestloss.oregonhowl.org/hansen-private/{z}/{x}/{y}.pbf
+Vector tiles available in: https://<i></i>forestloss.oregonhowl.org/hansen-private/{z}/{x}/{y}.pbf
 
 Original data source: [Hansen/UMD/Google/USGS/NASA](https://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.5.html) - Global Forest Change, year of gross forest cover loss event (lossyear) datasets.
 
